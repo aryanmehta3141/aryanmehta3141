@@ -6,34 +6,63 @@
 
 <p>Building for the Web. Solving with Logic.</p>
 
-<p align="center" font-size = "50">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Frontend+Developer;Competitive+Programmer;JavaScript+Enthusiast;Turning+Ideas+Into+Interfaces" />
 </p>
 
 <img src="https://img.shields.io/badge/Frontend%20Development-3B82F6?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Competitive%20Programming-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white" />
 
-
 </div>
 
 ## 🚀 About Me
 
-I'm a Computer Science student passionate about creating clean, interactive, and responsive web experiences.
+I'm a Computer Science student passionate about building clean, interactive, and responsive web experiences.
 
-Most of my time is spent building frontend projects, exploring modern UI/UX, solving algorithmic problems, and continuously improving my craft as a developer.
-
+Currently focused on frontend development, full-stack JavaScript, UI/UX, and competitive programming. I enjoy turning ideas into functional interfaces and solving problems through logic and code.
 
 ## 🎯 Current Focus
 
-* Learning JavaScript
-* Building frontend projects
-* Exploring UI/UX
+* Building full-stack web projects
+* Deepening my JavaScript and React knowledge
+* Learning backend development with Node.js and Express
+* Exploring PostgreSQL and relational databases
+* Improving my problem-solving skills through competitive programming
 * Becoming a better engineer every day
 
-## 🛠️ Tech Stack
+## 🛠️ Development Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,git,github,vscode" />
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ## 🧩 Competitive Programming
